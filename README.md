@@ -92,3 +92,11 @@ singleton pattern:
 >4.Select Local Library Options（Native library location）
 >
 >5.Double-click this item and set your own dll library where the directory can be
+
+**contact me:**
+
+QQ群:559604100
+
+Email:kevin@paracra.com
+
+facebook group:Logitow-Minecraft open
